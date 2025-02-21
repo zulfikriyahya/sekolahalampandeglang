@@ -1,6 +1,6 @@
 ---
 title: "Kontak Kami"
-meta_title: "Kontak MTs Negeri 1 Pandeglang"
-description: "Kontak MTs Negeri 1 Pandeglang"
+meta_title: "Kontak Sekolah Alam Bahriatul Ulum Pandeglang"
+description: "Kontak Sekolah Alam Bahriatul Ulum Pandeglang"
 draft: false
 ---

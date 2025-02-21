@@ -49,14 +49,6 @@
           "url": "/program"
         },
         {
-          "name": "Zona Integritas",
-          "url": "/zona-integritas"
-        },
-        {
-          "name": "Pelayanan Terpadu Satu Pintu",
-          "url": "/pelayanan"
-        },
-        {
           "name": "Sejarah",
           "url": "/sejarah"
         },
@@ -88,52 +80,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "OSIM",
+          "name": "OSIS",
           "url": "/osis"
         },
         {
-          "name": "Pramuka",
-          "url": "/pramuka"
+          "name": "Rachana Jurnalistik",
+          "url": "/rachana-jurnalistik"
         },
         {
-          "name": "Paskibra",
-          "url": "/paskibra"
-        },
-        {
-          "name": "PMR",
-          "url": "/pmr"
-        },
-        {
-          "name": "ROHIS",
-          "url": "/rohis"
-        },
-        {
-          "name": "Pandawa",
-          "url": "/pandawa"
-        },
-        {
-          "name": "Adiwiyata",
-          "url": "/adiwiyata"
-        },
-        {
-          "name": "Pecinta Alam",
-          "url": "/pecinta-alam"
-        },
-        {
-          "name": "English Club",
-          "url": "/english-club"
-        },
-        {
-          "name": "Japanese Club",
-          "url": "/japanese-club"
-        },
-        {
-          "name": "Footsal Club",
-          "url": "/footsal-club"
-        },
-        {
-          "name": "Volleyball Club",
-          "url": "/volleyball-club"
+          "name": "Outing Class",
+          "url": "/outing-class"
         }
       ]
     },
@@ -143,44 +99,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Pelayanan Terpadu Satu Pintu",
-          "url": "https://ptsp.mtsn1pandeglang.sch.id"
-        },
-        {
           "name": "Pendaftaran",
-          "url": "https://admisi.mtsn1pandeglang.sch.id"
+          "url": "https://admisi.sekolahalampandeglang.sch.id"
         },
         {
           "name": "Bank Data",
-          "url": "https://drive.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Rapor Digital Madrasah",
-          "url": "https://rdm.mtsn1pandeglang.sch.id"
+          "url": "https://drive.sekolahalampandeglang.sch.id"
         },
         {
           "name": "Presensi",
-          "url": "https://presensi.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Pemutakhiran Data Mandiri",
-          "url": "https://pdm.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Assesmen",
-          "url": "https://cbt.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Jurnal Kelas",
-          "url": "https://jurnal.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Perpustakaan",
-          "url": "https://perpustakaan.mtsn1pandeglang.sch.id"
-        },
-        {
-          "name": "Buku Induk",
-          "url": "https://buku-induk.mtsn1pandeglang.sch.id"
+          "url": "https://presensi.sekolahalampandeglang.sch.id"
         }
       ]
     },
