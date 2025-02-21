@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u5224240/public_html/SEKOLAHALAMPANDEGLANG/landingpage/
+    - git merge --no-ff
+    - git rebase
+    - /bin/cp -R * $DEPLOYPATH
